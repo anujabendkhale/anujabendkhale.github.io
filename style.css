@@ -1,6 +1,6 @@
 /* General Page Styling */
 body {
-    background-color: #ADD8E6;  /* Light yellowish-white */
+    background-color: #E3F2FD;  /* Light pastel blue */
     color: #3B2F2F;  /* Dark brown text for readability */
     font-family: Arial, sans-serif;
     margin: 0;
@@ -59,7 +59,7 @@ nav {
 }
 
 nav a {
-    color: #5A3E1B; /* Dark brown text */
+    color: #BDFCC9; /* Very Light Green */
     text-decoration: none;
     font-size: 18px;
     padding: 10px 15px;
@@ -68,7 +68,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #8B5E3C; /* Slightly darker brown on hover */
+    color: #A3E4A3; /* Slightly darker green on hover */
 }
 
 /* 🔹 Fix for Main Content Centering */
